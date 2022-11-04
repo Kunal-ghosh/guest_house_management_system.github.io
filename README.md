@@ -6,7 +6,7 @@ TEAM MEMBERS:
  3. KASTURI 
  4. RAUNAK RAJ 
   
- // TOPIC : GUEST HOUSE MANAGEMENT SYSTEM
+TOPIC : GUEST HOUSE MANAGEMENT SYSTEM
 
 
 Just run the .cpp file to open the program.
